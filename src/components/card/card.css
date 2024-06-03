@@ -1,0 +1,14 @@
+.card {
+    transition: .4s;
+    cursor: pointer;
+}
+.card:hover {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.card img {
+    height: 250px;
+}
+.card h3 {
+    font-size: 13px;
+    color: #777;
+}
